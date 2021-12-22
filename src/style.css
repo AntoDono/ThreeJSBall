@@ -10,7 +10,7 @@ body
     height: 100vh;
     font-family: 'Poppins';
     background-color: rgb(19, 17, 17);
-
+    overflow-x: hidden;
 }
 
 .webgl
